@@ -1,0 +1,18 @@
+
+a)  9
+
+b)  128
+
+
+c)  49, aqui complicou mas a ideia era n^2.
+
+d) 100 ? tive que apelar.
+
+e) 13, Fibonacci.
+
+f) 200 ? Aqui a quinta série bateu...
+
+    2,10, 12, 16, 17, 18, 19
+    Dois, Dez, Doze, Dezeseis, Dezesete, Dezoito, Dezenove...  DUZENTOS ?!
+
+   
