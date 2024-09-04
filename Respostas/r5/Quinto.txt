@@ -1,0 +1,12 @@
+Metodo 1)
+
+Tentativa e erro. Com inspiração no briqnuedo didático "Torre de Hanói"
+
+Metodo 2)
+
+Temperatura da lâmpada.
+
+    i - Liga a primeira por muito tempo e desliga.
+    ii - Liga a segunda por menos tempo e desliga.
+    iii - Liga a terceira e checa qual está ligada será diretamente relacionada ao disjuntor.
+            Os outros 2 são analisados conforme as temperatudas respectivas
